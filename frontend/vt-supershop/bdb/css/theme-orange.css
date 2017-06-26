@@ -18027,13 +18027,13 @@ ul.mainnav > li:hover > ul {
 }
 /* line 234, menu.less */
 #vt_menu .box-menu-02 {
-  width: 900px;
+  width: 670px;
   padding: 0;
   background: #082745;
 }
 
 #vt_menu .box-menu-03 {
-  width: 900px;
+  width: 230px;
   padding: 0;
   background: #082745;
 }
@@ -18042,7 +18042,6 @@ ul.mainnav > li:hover > ul {
 #vt_menu .box-menu-03 .block-cart {
   float: right;
   position: relative;
-  margin: 8px 0 0 30px;
 }
 /* line 1238, theme.less */
 #vt_menu .box-menu-03 .block-cart .block-title {
@@ -18054,7 +18053,7 @@ ul.mainnav > li:hover > ul {
 #vt_menu .box-menu-03 .block-cart .block-title .box-left {
   float: left;
   width: 50px;
-  height: 44px;
+  height: 40px;
   position: relative;
   background: #e82a43;
 }
@@ -18072,7 +18071,7 @@ ul.mainnav > li:hover > ul {
 }
 /* line 1244, theme.less */
 #vt_menu .box-menu-03 .block-cart .block-title .box-right {
-  border: 1px solid #e8e8e8;
+  border: 0px solid #e8e8e8;
   float: right;
   text-align: center;
   padding-left: 24px;
@@ -18091,7 +18090,7 @@ ul.mainnav > li:hover > ul {
 }
 /* line 1248, theme.less */
 #vt_menu .box-menu-03 .block-cart .block-title .box-right .amount {
-  line-height: 42px;
+  line-height: 40px;
 }
 /* line 1249, theme.less */
 #vt_menu .box-menu-03 .block-cart .block-title .box-right .amount .subtotal {
@@ -18175,7 +18174,7 @@ ul.mainnav > li:hover > ul {
 /* line 1279, theme.less */
 #vt_menu .box-menu-03 .block-cart .block-content .inner #cart-sidebar li .btn-edit {
   position: absolute;
-  top: 42px;
+  top: 40px;
   font-size: 14px;
   left: 0;
   width: 15px;
