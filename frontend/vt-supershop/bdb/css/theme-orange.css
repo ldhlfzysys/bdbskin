@@ -6089,7 +6089,7 @@ tr.summary-details-excluded {
 }
 /* line 1060, theme.less */
 .advanced-search .form-search input {
-  border: 1px solid #e8e8e8;
+  border: 2px solid #e82a43;
   margin-top: 0px;
   min-width: 604px;
   color: #999;
@@ -6102,7 +6102,7 @@ tr.summary-details-excluded {
   position: absolute;
   top: 0;
   right: 0;
-  background: #082745;
+  background: #e82a43;
   text-indent: -9999em;
   padding: 0;
   margin: 0;
@@ -6566,7 +6566,7 @@ tr.summary-details-excluded {
   width: 50px;
   height: 44px;
   position: relative;
-  background: #282826;
+  background: #e82a43;
 }
 /* line 1240, theme.less */
 .box-header-02 .block-cart .block-title .box-left:before {
@@ -18044,7 +18044,7 @@ ul.mainnav > li:hover > ul {
 #vt_menu .vertical-menu > h2 {
   margin: 0;
   line-height: 40px;
-  background: #282826;
+  background: #082745;
   color: #fff;
   font-weight: normal;
   text-transform: uppercase;
