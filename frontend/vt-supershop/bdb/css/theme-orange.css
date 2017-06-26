@@ -18027,15 +18027,15 @@ ul.mainnav > li:hover > ul {
 }
 /* line 234, menu.less */
 #vt_menu .box-menu-02 {
-  width: 670px;
+  width: 600px;
   padding: 0;
   background: #082745;
 }
 
 #vt_menu .box-menu-03 {
-  width: 230px;
+  width: 300px;
   padding: 0;
-  background: #082745;
+  background: #e82a43;
 }
 
 /* line 1237, theme.less */
@@ -18099,7 +18099,7 @@ ul.mainnav > li:hover > ul {
 }
 /* line 1249, theme.less */
 #vt_menu .box-menu-03 .block-cart .block-title .box-right .amount .subtotal {
-  color: #282826;
+  color: #ffffff;
 }
 /* line 1255, theme.less */
 #vt_menu .box-menu-03 .block-cart:hover .block-content {
