@@ -6089,7 +6089,7 @@ tr.summary-details-excluded {
 }
 /* line 1060, theme.less */
 .advanced-search .form-search input {
-  border: 2px solid #e82a43;
+  border: 4px solid #e82a43;
   margin-top: 0px;
   min-width: 604px;
   color: #999;
@@ -17653,7 +17653,7 @@ ul.mainnav > li.nav-home {
 }
 /* line 57, menu.less */
 ul.mainnav > li.active {
-  background: #282826;
+  background: #e82a43;
 }
 /* line 59, menu.less */
 ul.mainnav > li.active > a {
