@@ -18043,6 +18043,11 @@ ul.mainnav > li:hover > ul {
   float: right;
   position: relative;
 }
+
+#vt_menu .box-menu-03 .block {
+  margin-bottom: 0px
+}
+
 /* line 1238, theme.less */
 #vt_menu .box-menu-03 .block-cart .block-title {
   position: relative;
