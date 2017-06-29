@@ -11341,9 +11341,20 @@ body .box-slideshow .tp-bullets.simplebullets.round .bullet:hover:before {
   text-align: center;
   margin-bottom: 10px;
 }
+.position-09 .tab-item {
+  display: inline-block;
+  width: 100%;
+  text-align: center;
+  margin-bottom: 10px;
+}
 /* line 3198, theme.less */
 .box-productsconfig .tab-item ul,
 .position-08 .tab-item ul {
+  float: left;
+  width: 100%;
+  border: 1px solid #e8e8e8;
+}
+.position-09 .tab-item ul {
   float: left;
   width: 100%;
   border: 1px solid #e8e8e8;
@@ -11354,9 +11365,23 @@ body .box-slideshow .tp-bullets.simplebullets.round .bullet:hover:before {
   float: left;
   position: relative;
 }
+.position-09 .tab-item ul li {
+  float: left;
+  position: relative;
+}
 /* line 3200, theme.less */
 .box-productsconfig .tab-item ul li a,
 .position-08 .tab-item ul li a {
+  padding: 0 18px;
+  line-height: 40px;
+  position: relative;
+  border-right: 1px solid #e8e8e8;
+  background: #fff;
+  display: block;
+  font-size: 128.57%;
+  text-transform: uppercase;
+}
+.position-09 .tab-item ul li a {
   padding: 0 18px;
   line-height: 40px;
   position: relative;
@@ -11376,9 +11401,26 @@ body .box-slideshow .tp-bullets.simplebullets.round .bullet:hover:before {
   -o-transition: all 0.1s ease-out 0s;
   transition: all 0.1s ease-out 0s;
 }
+.position-09 .tab-item ul li a:hover {
+  background: #282826;
+  color: #fff;
+  -webkit-transition: all 0.1s ease-out 0s;
+  -moz-transition: all 0.1s ease-out 0s;
+  -o-transition: all 0.1s ease-out 0s;
+  transition: all 0.1s ease-out 0s;
+}
 /* line 3203, theme.less */
 .box-productsconfig .tab-item ul li a:hover:before,
 .position-08 .tab-item ul li a:hover:before {
+  content: "";
+  width: 100%;
+  height: 1px;
+  position: absolute;
+  top: -1px;
+  left: 0;
+  background: #282826;
+}
+.position-09 .tab-item ul li a:hover:before {
   content: "";
   width: 100%;
   height: 1px;
@@ -11398,9 +11440,28 @@ body .box-slideshow .tp-bullets.simplebullets.round .bullet:hover:before {
   left: 0;
   background: #282826;
 }
+.position-09 .tab-item ul li a:hover:after {
+  content: "";
+  width: 100%;
+  height: 1px;
+  position: absolute;
+  bottom: -1px;
+  left: 0;
+  background: #282826;
+}
 /* line 3212, theme.less */
 .box-productsconfig .tab-item ul li.active:before,
 .position-08 .tab-item ul li.active:before {
+  content: "";
+  width: 12px;
+  height: 7px;
+  position: absolute;
+  top: -7px;
+  right: -12px;
+  background: url('../images/i-actived.png') no-repeat 0 0;
+  z-index: 99;
+}
+.position-09 .tab-item ul li.active:before {
   content: "";
   width: 12px;
   height: 7px;
@@ -11423,9 +11484,28 @@ body .box-slideshow .tp-bullets.simplebullets.round .bullet:hover:before {
   border-right: 1px solid #2e2e2e;
   z-index: 9;
 }
+.position-09 .tab-item ul li.active:after {
+  content: "";
+  width: 100%;
+  height: 7px;
+  position: absolute;
+  top: -7px;
+  left: 0;
+  background: #282826;
+  border-right: 1px solid #2e2e2e;
+  z-index: 9;
+}
 /* line 3218, theme.less */
 .box-productsconfig .tab-item ul li.active a,
 .position-08 .tab-item ul li.active a {
+  background: #282826;
+  color: #fff;
+  -webkit-transition: all 0.1s ease-out 0s;
+  -moz-transition: all 0.1s ease-out 0s;
+  -o-transition: all 0.1s ease-out 0s;
+  transition: all 0.1s ease-out 0s;
+}
+.position-09 .tab-item ul li.active a {
   background: #282826;
   color: #fff;
   -webkit-transition: all 0.1s ease-out 0s;
@@ -11444,9 +11524,27 @@ body .box-slideshow .tp-bullets.simplebullets.round .bullet:hover:before {
   left: 0;
   background: #282826;
 }
+.position-09 .tab-item ul li.active a:before {
+  content: "";
+  width: 100%;
+  height: 1px;
+  position: absolute;
+  top: -1px;
+  left: 0;
+  background: #282826;
+}
 /* line 3223, theme.less */
 .box-productsconfig .tab-item ul li.active a:after,
 .position-08 .tab-item ul li.active a:after {
+  content: "";
+  width: 100%;
+  height: 1px;
+  position: absolute;
+  bottom: -1px;
+  left: 0;
+  background: #282826;
+}
+.position-09 .tab-item ul li.active a:after {
   content: "";
   width: 100%;
   height: 1px;
