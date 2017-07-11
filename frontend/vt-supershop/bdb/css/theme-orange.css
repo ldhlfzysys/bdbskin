@@ -1312,11 +1312,12 @@ button:hover {
 .cart .btn-proceed-checkout {
   padding: 10px 20px;
   margin-bottom: 0;
-  background: #082745;
+  background: #e82a44;
+  border-radius:4px;
 }
 /* line 721, general.less */
 .cart .btn-proceed-checkout:hover {
-  background: #333;
+  background: #e82a44;
 }
 /* line 723, general.less */
 .cart thead tr th {
@@ -1378,6 +1379,8 @@ button:hover {
 }
 /* line 747, general.less */
 .cart .btn-continue {
+  border-radius:4px;
+  background: #067ab2;
   float: left;
 }
 /* line 748, general.less */
