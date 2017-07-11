@@ -1076,11 +1076,6 @@ button:hover {
 .data-table input.input-text {
   padding: 3px 5px;
 }
-
-.data-table tbody td.cart-price {
-  color: #cf1b28;
-  vertical-align: middle;
-}
 /* line 601, general.less */
 .checkout-onepage-index .page-title h1 {
   font-size: 133.33%;
