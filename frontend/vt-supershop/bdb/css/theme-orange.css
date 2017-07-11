@@ -1213,6 +1213,7 @@ button:hover {
 /* line 675, general.less */
 .a-center {
   text-align: center;
+  vertical-align: center;
 }
 /* line 676, general.less */
 .a-right {
