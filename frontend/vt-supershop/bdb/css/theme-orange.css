@@ -1383,6 +1383,16 @@ button:hover {
   background: #067ab2;
   float: left;
 }
+
+.cart .btn-update {
+  border-radius:4px;
+  background: #067ab2;
+}
+
+.cart .btn-empty {
+  border-radius:4px;
+  background: #067ab2;
+}
 /* line 748, general.less */
 .cart .col2-set {
   width: 70%;
