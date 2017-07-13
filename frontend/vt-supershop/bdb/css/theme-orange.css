@@ -11382,7 +11382,7 @@ body .box-slideshow .tp-bullets.simplebullets.round .bullet:hover:before {
   border: 1px solid #e8e8e8;
 }
 .position-09 .tab-item ul {
-  float: left;
+  float: right;
   width: 100%;
   border: 1px solid #e8e8e8;
 }
@@ -11393,7 +11393,7 @@ body .box-slideshow .tp-bullets.simplebullets.round .bullet:hover:before {
   position: relative;
 }
 .position-09 .tab-item ul li {
-  float: left;
+  float: right;
   position: relative;
 }
 /* line 3200, theme.less */
@@ -11583,6 +11583,10 @@ body .box-slideshow .tp-bullets.simplebullets.round .bullet:hover:before {
 /* line 3231, theme.less */
 .box-productsconfig .tab-content,
 .position-08 .tab-content {
+  overflow: hidden;
+}
+
+.position-09 .tab-content {
   overflow: hidden;
 }
 /* line 3234, theme.less */
