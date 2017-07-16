@@ -6791,10 +6791,14 @@ tr.summary-details-excluded {
 /* 购物车 数量加减符号 */
 .flycart-cart-butt-lr a.flycart-qty-btn.flycart-qty-change.flycart-qty-change-right {
    background: url('../images/plus.png') no-repeat 0 0 #999999;
+   min-width: 19px;
+   min-height: 28px;
 }
 
 .flycart-cart-butt-lr a.flycart-qty-btn.flycart-qty-change.flycart-qty-change-left {
    background: url('../images/minus.png') no-repeat 0 0 #999999;
+   min-width: 19px;
+   min-height: 28px;
 }
 
 /* line 1307, theme.less */
