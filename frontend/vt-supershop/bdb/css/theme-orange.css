@@ -13966,6 +13966,7 @@ body .box-slideshow .tp-bullets.simplebullets.round .bullet:hover:before {
 }
 
 .position-09 .box-slide-image {
+  width: 276px;
   position: relative;
   overflow: hidden;
 }
