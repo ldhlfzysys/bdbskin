@@ -18636,6 +18636,7 @@ ul.mainnav > li:hover > ul {
 /* line 1335, theme.less */
 #vt_menu .box-menu-03 .block-cart .block-content .inner .actions .a-inner a {
   color: #fff;
+  text-transform: uppercase;
   font-size: 100%;
   position: relative;
   padding: 0 20px;
