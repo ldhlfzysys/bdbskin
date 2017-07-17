@@ -10787,10 +10787,11 @@ body .box-slideshow .tp-bullets.simplebullets.round .bullet:hover:before {
 
 .home-01 .position-09 .vt-slider {
   float: left;
-  width: 460px;
+  width: 285px;
   position: relative;
   min-height: 400px;
   margin-bottom: 0;
+  margin-bottom: 15px;
   overflow: hidden;
 }
 
@@ -13964,7 +13965,7 @@ body .box-slideshow .tp-bullets.simplebullets.round .bullet:hover:before {
 
 .position-09 .products-grid .box-01 .box-01-01 {
   width: 100%;
-  height: 200px;
+  height: 100px;
   float: left;
 }
 /* line 4355, theme.less */
@@ -13985,7 +13986,7 @@ body .box-slideshow .tp-bullets.simplebullets.round .bullet:hover:before {
 
 .position-09 .products-grid .box-01 .box-01-02 {
   width: 50%;
-  height: 200px;
+  height: 100px;
   float: left;
   margin-left: 1px;
 }
@@ -14005,6 +14006,7 @@ body .box-slideshow .tp-bullets.simplebullets.round .bullet:hover:before {
 
 .position-09 .products-grid .box-02 {
   padding-top: 1px;
+  height: 200px;
   clear: both;
 }
 /* line 4372, theme.less */
@@ -14016,7 +14018,7 @@ body .box-slideshow .tp-bullets.simplebullets.round .bullet:hover:before {
 
 .position-09 .products-grid .box-02 .box-02-01 {
   width: 50%;
-  height: 200px;
+  height: 50%;
   float: left;
 }
 /* line 4376, theme.less */
@@ -14037,7 +14039,7 @@ body .box-slideshow .tp-bullets.simplebullets.round .bullet:hover:before {
 
 .position-09 .products-grid .box-02 .box-02-02 {
   width: 49.6%;
-  height: 200px;
+  height: 49.6%;
   float: left;
   margin-left: 1px;
 }
@@ -14059,7 +14061,7 @@ body .box-slideshow .tp-bullets.simplebullets.round .bullet:hover:before {
 .position-09 .products-grid .box-02 .box-02-03 {
   width: 49.6%;
   margin-left: 1px;
-  height: 200px;
+  height: 49.6%;
   float: left;
 }
 /* line 4394, theme.less */
@@ -14068,6 +14070,17 @@ body .box-slideshow .tp-bullets.simplebullets.round .bullet:hover:before {
 }
 
 .position-09 .products-grid .box-02 .box-02-03 img {
+  width: 100%;
+}
+
+.position-09 .products-grid .box-02 .box-02-04 {
+  width: 49.6%;
+  margin-left: 1px;
+  height: 49.6%;
+  float: left;
+}
+
+.position-09 .products-grid .box-02 .box-02-04 img {
   width: 100%;
 }
 /* line 4400, theme.less */
