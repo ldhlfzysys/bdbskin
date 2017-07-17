@@ -11410,6 +11410,13 @@ body .box-slideshow .tp-bullets.simplebullets.round .bullet:hover:before {
   width: 100%;
   border: 1px solid #e8e8e8;
 }
+
+.position-09 .tab-item ul p{
+  float: left;
+  width: 100px;
+  font-size: 20px;
+}
+
 /* line 3199, theme.less */
 .box-productsconfig .tab-item ul li,
 .position-08 .tab-item ul li {
