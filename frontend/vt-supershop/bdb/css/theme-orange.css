@@ -10785,16 +10785,6 @@ body .box-slideshow .tp-bullets.simplebullets.round .bullet:hover:before {
   overflow: hidden;
 }
 
-.home-01 .position-09 .vt-slider {
-  float: left;
-  width: 285px;
-  position: relative;
-  min-height: 400px;
-  margin-bottom: 0;
-  margin-bottom: 15px;
-  overflow: hidden;
-}
-
 /* line 2747, theme.less */
 .position-09 .vt-slider.loading:before,
 .position-10 .vt-slider.loading:before,
