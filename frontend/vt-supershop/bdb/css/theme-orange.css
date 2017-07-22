@@ -7822,14 +7822,17 @@ body .box-slideshow .tp-bullets.simplebullets.round .bullet:hover:before {
   clear: both;
 }
 /* line 1775, theme.less */
+/*修改源代码
 .products-grid .item {
   margin-bottom: 30px;
 }
 /* line 1776, theme.less */
+/*修改源代码
 .products-grid .item .item-wrap {
   overflow: hidden;
   border: 1px solid #e8e8e8;
 }
+
 /* line 1777, theme.less */
 .products-grid .item .item-wrap .item-image {
   position: relative;
