@@ -10829,7 +10829,7 @@ body .box-slideshow .tp-bullets.simplebullets.round .bullet:hover:before {
   position: relative;
 }
 /* line 2755, theme.less */
-.position-09 .vt-slider .slider-inner .item,
+/*.position-09 .vt-slider .slider-inner .item, 修改原文件*/
 .position-10 .vt-slider .slider-inner .item,
 .position-12 .vt-slider .slider-inner .item,
 .position-13 .vt-slider .slider-inner .item,
@@ -10838,7 +10838,7 @@ body .box-slideshow .tp-bullets.simplebullets.round .bullet:hover:before {
   margin-bottom: 0;
 }
 
-.home-01 .position-09 .vt-slider .slider-inner .item,
+.position-09 .vt-slider .slider-inner .item,
 {
   width: 150px;
   height: 200px;
@@ -10879,7 +10879,7 @@ body .box-slideshow .tp-bullets.simplebullets.round .bullet:hover:before {
   left: 12px;
 }
 /* line 2761, theme.less */
-.position-09 .vt-slider .slider-inner .item .item-wrap,
+/*.position-09 .vt-slider .slider-inner .item .item-wrap, 修改原文件*/
 .position-10 .vt-slider .slider-inner .item .item-wrap,
 .position-12 .vt-slider .slider-inner .item .item-wrap,
 .position-13 .vt-slider .slider-inner .item .item-wrap,
@@ -10891,7 +10891,7 @@ body .box-slideshow .tp-bullets.simplebullets.round .bullet:hover:before {
   border-left: 1px solid #e5e5e5 !important;
 }
 
-.home-01 .position-09 .vt-slider .slider-inner .item .item-wrap,
+.position-09 .vt-slider .slider-inner .item .item-wrap,
 {
   height: 200px;
   background: #fff;
