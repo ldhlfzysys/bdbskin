@@ -7825,6 +7825,11 @@ body .box-slideshow .tp-bullets.simplebullets.round .bullet:hover:before {
 .products-grid .item {
   margin-bottom: 30px;
 }
+
+.products-grid .productBox .item {
+  width: 100px;
+  height: 100px;
+}
 /* line 1776, theme.less */
 .products-grid .item .item-wrap {
   overflow: hidden;
