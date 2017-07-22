@@ -7863,6 +7863,18 @@ body .box-slideshow .tp-bullets.simplebullets.round .bullet:hover:before {
   -moz-transform: translate(0, 0);
   transform: translate(0, 0);
 }
+
+.position-09 .products-grid .item .item-wrap .item-image .product-image img {
+  -webkit-transition: all 0.3s ease-out 0s;
+  -moz-transition: all 0.3s ease-out 0s;
+  -o-transition: all 0.3s ease-out 0s;
+  transition: all 0.3s ease-out 0s;
+  margin-top: 0px;
+  width: 100%;
+  -webkit-transform: translate(0, 0);
+  -moz-transform: translate(0, 0);
+  transform: translate(0, 0);
+}
 /* line 1786, theme.less */
 .products-grid .item .item-wrap .item-image .item-btn {
   position: absolute;
