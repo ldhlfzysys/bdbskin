@@ -1532,6 +1532,15 @@ button:hover {
   margin: 0 10px 0 0;
   color: #FFF;
 }
+
+/* 购物车流程 */
+#checkoutSteps li .step-title a {
+  color: #FFFFFF;
+}
+
+#checkoutSteps li .step-title h2 {
+  color: #FFFFFF;
+}
 /* line 797, general.less */
 #checkoutSteps li .step-title h2 {
   font-size: 125%;
