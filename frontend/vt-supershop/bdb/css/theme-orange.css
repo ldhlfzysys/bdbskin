@@ -10847,8 +10847,7 @@ body .box-slideshow .tp-bullets.simplebullets.round .bullet:hover:before {
   margin-bottom: 0;
 }
 
-.position-09 .vt-slider .slider-inner .item
-{
+.position-09 .vt-slider .slider-inner .item{
   width: 150px;
   height: 200px;
   float: left;
@@ -10900,8 +10899,7 @@ body .box-slideshow .tp-bullets.simplebullets.round .bullet:hover:before {
   border-left: 1px solid #e5e5e5 !important;
 }
 
-.position-09 .vt-slider .slider-inner .item .item-wrap
-{
+.position-09 .vt-slider .slider-inner .item .item-wrap{
   height: 200px;
   background: #fff;
   border: none !important;
