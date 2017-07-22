@@ -10837,6 +10837,14 @@ body .box-slideshow .tp-bullets.simplebullets.round .bullet:hover:before {
 .position-15 .vt-slider .slider-inner .item {
   margin-bottom: 0;
 }
+
+.position-09 .vt-slider .slider-inner .productBox .item,
+{
+  width: 150px;
+  height: 200px;
+  float: left;
+  margin-bottom: 0;
+}
 /* line 2757, theme.less */
 .position-09 .vt-slider .slider-inner .item .new-item,
 .position-10 .vt-slider .slider-inner .item .new-item,
@@ -10878,6 +10886,14 @@ body .box-slideshow .tp-bullets.simplebullets.round .bullet:hover:before {
 .position-14 .vt-slider .slider-inner .item .item-wrap,
 .position-15 .vt-slider .slider-inner .item .item-wrap {
   min-height: 400px;
+  background: #fff;
+  border: none !important;
+  border-left: 1px solid #e5e5e5 !important;
+}
+
+.position-09 .vt-slider .slider-inner .productBox .item .item-wrap,
+{
+  height: 200px;
   background: #fff;
   border: none !important;
   border-left: 1px solid #e5e5e5 !important;
