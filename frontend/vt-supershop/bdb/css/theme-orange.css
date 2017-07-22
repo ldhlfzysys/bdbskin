@@ -8001,6 +8001,7 @@ body .box-slideshow .tp-bullets.simplebullets.round .bullet:hover:before {
 
 .position-09 .products-grid .item .item-wrap .pro-info .pro-inner {
   display: block;
+  padding: 0px 20px 0px;
   overflow: hidden;
 }
 /* line 1831, theme.less */
