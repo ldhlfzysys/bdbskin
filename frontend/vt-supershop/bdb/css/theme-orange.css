@@ -13920,12 +13920,6 @@ body .box-slideshow .tp-bullets.simplebullets.round .bullet:hover:before {
   position: relative;
 }
 
-.position-09 .products-grid div div {
-  background: #fff;
-  padding: 10px;
-  position: relative;
-}
-
 /* line 4337, theme.less */
 .up-grade .products-grid div div p.name {
   position: absolute;
