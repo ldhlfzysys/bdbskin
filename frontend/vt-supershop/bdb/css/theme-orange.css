@@ -7998,6 +7998,11 @@ body .box-slideshow .tp-bullets.simplebullets.round .bullet:hover:before {
   padding: 20px 20px 22px;
   overflow: hidden;
 }
+
+.position-09 .products-grid .item .item-wrap .pro-info .pro-inner {
+  display: block;
+  overflow: hidden;
+}
 /* line 1831, theme.less */
 .products-grid .item .item-wrap .pro-info .pro-inner .product-name {
   float: left;
@@ -10861,7 +10866,7 @@ body .box-slideshow .tp-bullets.simplebullets.round .bullet:hover:before {
 
 .position-09 .vt-slider .slider-inner .item{
   width: 150px;
-  height: 200px;
+  height: 245px;
   float: left;
   margin-bottom: 0;
 }
@@ -10912,7 +10917,7 @@ body .box-slideshow .tp-bullets.simplebullets.round .bullet:hover:before {
 }
 
 .position-09 .vt-slider .slider-inner .item .item-wrap{
-  height: 200px;
+  height: 245px;
   background: #fff;
   border: none !important;
   border-left: 1px solid #e5e5e5 !important;
