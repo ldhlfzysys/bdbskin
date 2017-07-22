@@ -13920,6 +13920,12 @@ body .box-slideshow .tp-bullets.simplebullets.round .bullet:hover:before {
   position: relative;
 }
 
+.position09vt-slider .products-grid div div {
+  background: #fff;
+  padding: 10px;
+  position: relative;
+}
+
 /* line 4337, theme.less */
 .up-grade .products-grid div div p.name {
   position: absolute;
@@ -13929,7 +13935,7 @@ body .box-slideshow .tp-bullets.simplebullets.round .bullet:hover:before {
   top: 20px;
 }
 
-.position-09 .products-grid div div p.name {
+.position09vt-slider .products-grid div div p.name {
   position: absolute;
   text-align: center;
   width: 100%;
@@ -13942,7 +13948,7 @@ body .box-slideshow .tp-bullets.simplebullets.round .bullet:hover:before {
   z-index: 999;
 }
 
-.position-09 .products-grid div div:hover {
+.position09vt-slider .products-grid div div:hover {
   box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.1);
   z-index: 999;
 }
@@ -13953,7 +13959,7 @@ body .box-slideshow .tp-bullets.simplebullets.round .bullet:hover:before {
   float: left;
 }
 
-.position-09 .products-grid .box-01 .box-01-01 {
+.position09vt-slider .products-grid .box-01 .box-01-01 {
   width: 100%;
   height: 100px;
   float: left;
@@ -13963,7 +13969,7 @@ body .box-slideshow .tp-bullets.simplebullets.round .bullet:hover:before {
   width: 100%;
 }
 
-.position-09 .products-grid .box-01 .box-01-01 img {
+.position09vt-slider .products-grid .box-01 .box-01-01 img {
   width: 100%;
 }
 /* line 4359, theme.less */
@@ -13974,7 +13980,7 @@ body .box-slideshow .tp-bullets.simplebullets.round .bullet:hover:before {
   margin-left: 1px;
 }
 
-.position-09 .products-grid .box-01 .box-01-02 {
+.position09vt-slider .products-grid .box-01 .box-01-02 {
   width: 100%;
   height: 100px;
   float: left;
@@ -13984,7 +13990,7 @@ body .box-slideshow .tp-bullets.simplebullets.round .bullet:hover:before {
   width: 100%;
 }
 
-.position-09 .products-grid .box-01 .box-01-02 img {
+.position09vt-slider .products-grid .box-01 .box-01-02 img {
   width: 100%;
 }
 /* line 4369, theme.less */
@@ -13993,7 +13999,7 @@ body .box-slideshow .tp-bullets.simplebullets.round .bullet:hover:before {
   clear: both;
 }
 
-.position-09 .products-grid .box-02 {
+.position09vt-slider .products-grid .box-02 {
   padding-top: 1px;
   height: 200px;
   clear: both;
@@ -14005,7 +14011,7 @@ body .box-slideshow .tp-bullets.simplebullets.round .bullet:hover:before {
   float: left;
 }
 
-.position-09 .products-grid .box-02 .box-02-01 {
+.position09vt-slider .products-grid .box-02 .box-02-01 {
   width: 50%;
   height: 50%;
   float: left;
@@ -14015,7 +14021,7 @@ body .box-slideshow .tp-bullets.simplebullets.round .bullet:hover:before {
   width: 100%;
 }
 
-.position-09 .products-grid .box-02 .box-02-01 img {
+.position09vt-slider .products-grid .box-02 .box-02-01 img {
   width: 100%;
   overflow: auto;
 }
@@ -14027,7 +14033,7 @@ body .box-slideshow .tp-bullets.simplebullets.round .bullet:hover:before {
   margin-left: 1px;
 }
 
-.position-09 .products-grid .box-02 .box-02-02 {
+.position09vt-slider .products-grid .box-02 .box-02-02 {
   width: 50%;
   height: 50%;
   float: left;
@@ -14036,7 +14042,7 @@ body .box-slideshow .tp-bullets.simplebullets.round .bullet:hover:before {
 .up-grade .products-grid .box-02 .box-02-02 img {
   width: 100%;
 }
-.position-09 .products-grid .box-02 .box-02-02 img {
+.position09vt-slider .products-grid .box-02 .box-02-02 img {
   width: 100%;
   overflow: auto;
 }
@@ -14048,7 +14054,7 @@ body .box-slideshow .tp-bullets.simplebullets.round .bullet:hover:before {
   float: left;
 }
 
-.position-09 .products-grid .box-02 .box-02-03 {
+.position09vt-slider .products-grid .box-02 .box-02-03 {
   width: 50.0%;
   height: 50.0%;
   float: left;
@@ -14058,18 +14064,18 @@ body .box-slideshow .tp-bullets.simplebullets.round .bullet:hover:before {
   width: 100%;
 }
 
-.position-09 .products-grid .box-02 .box-02-03 img {
+.position09vt-slider .products-grid .box-02 .box-02-03 img {
   width: 100%;
   overflow: auto;
 }
 
-.position-09 .products-grid .box-02 .box-02-04 {
+.position09vt-slider .products-grid .box-02 .box-02-04 {
   width: 50.0%;
   height: 50.0%;
   float: left;
 }
 
-.position-09 .products-grid .box-02 .box-02-04 img {
+.position09vt-slider .products-grid .box-02 .box-02-04 img {
   width: 100%;
   overflow: auto;
 }
