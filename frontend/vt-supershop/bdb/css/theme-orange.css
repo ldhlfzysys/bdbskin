@@ -8523,7 +8523,7 @@ body .box-slideshow .tp-bullets.simplebullets.round .bullet:hover:before {
   float: left;
   line-height: 30px;
   height: 30px;
-  background: #282826;
+  background: #e82a44;
   color: #fff;
 }
 /* line 2042, theme.less */
@@ -8667,7 +8667,7 @@ body .box-slideshow .tp-bullets.simplebullets.round .bullet:hover:before {
 /* line 2093, theme.less */
 .product-view #product-tabs > ul li.actived a {
   color: #fff;
-  background: #082745;
+  background: #1f9fff;
 }
 /* line 2094, theme.less */
 .product-view #product-tabs > ul li.actived a:hover {
