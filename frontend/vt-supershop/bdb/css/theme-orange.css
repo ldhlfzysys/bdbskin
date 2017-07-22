@@ -11331,7 +11331,7 @@ body .box-slideshow .tp-bullets.simplebullets.round .bullet:hover:before {
 }
 
 .position-09 .vt-slider .container-slider {
-  margin: 0 -15px;
+  /*暂时去掉 margin: 0 -15px;*/
 }
 
 /* line 3186, theme.less */
