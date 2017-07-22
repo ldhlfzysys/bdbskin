@@ -8656,7 +8656,7 @@ body .box-slideshow .tp-bullets.simplebullets.round .bullet:hover:before {
 }
 /* line 2090, theme.less */
 .product-view #product-tabs > ul li a:hover {
-  background: #082745;
+  background: #1f9fff;
   color: #fff;
   -webkit-transition: all 0.2s ease-out 0s;
   -moz-transition: all 0.2s ease-out 0s;
