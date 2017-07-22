@@ -18815,7 +18815,6 @@ ul.mainnav > li:hover > ul {
   display: block;
   line-height: 38px;
   position: relative;
-  padding-left: 27px;
   border-bottom: 1px dashed #e8e8e8;
 }
 /* line 260, menu.less */
