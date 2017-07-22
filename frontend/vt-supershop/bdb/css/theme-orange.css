@@ -13985,10 +13985,9 @@ body .box-slideshow .tp-bullets.simplebullets.round .bullet:hover:before {
 }
 
 .position-09 .products-grid .box-01 .box-01-02 {
-  width: 50%;
+  width: 100%;
   height: 100px;
   float: left;
-  margin-left: 1px;
 }
 /* line 4364, theme.less */
 .up-grade .products-grid .box-01 .box-01-02 img {
