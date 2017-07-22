@@ -4362,7 +4362,7 @@ tr.summary-details-excluded {
 }
 /* line 113, theme.less */
 .toolbar .pager .pages li.current {
-  border: 1px solid #282826;
+  border: 1px solid #ffffff;
   background: #1f9fff;
   color: #fff;
 }
@@ -4469,8 +4469,8 @@ tr.summary-details-excluded {
 }
 /* line 163, theme.less */
 .toolbar .sorter .view-mode strong.grid {
-  border: 1px solid #282826;
-  background: #282826;
+  border: 1px solid #ffffff;
+  background: #1f9fff;
 }
 /* line 167, theme.less */
 .toolbar .sorter .view-mode a.grid:before {
@@ -4478,8 +4478,8 @@ tr.summary-details-excluded {
 }
 /* line 168, theme.less */
 .toolbar .sorter .view-mode a.grid:hover {
-  background: #282826;
-  border: 1px solid #282826;
+  background: #ffffff;
+  border: 1px solid #1f9fff;
 }
 /* line 169, theme.less */
 .toolbar .sorter .view-mode a.grid:hover:before {
