@@ -7822,17 +7822,14 @@ body .box-slideshow .tp-bullets.simplebullets.round .bullet:hover:before {
   clear: both;
 }
 /* line 1775, theme.less */
-/*修改源代码
 .products-grid .item {
   margin-bottom: 30px;
 }
 /* line 1776, theme.less */
-/*修改源代码
 .products-grid .item .item-wrap {
   overflow: hidden;
   border: 1px solid #e8e8e8;
 }
-
 /* line 1777, theme.less */
 .products-grid .item .item-wrap .item-image {
   position: relative;
@@ -10841,7 +10838,7 @@ body .box-slideshow .tp-bullets.simplebullets.round .bullet:hover:before {
   margin-bottom: 0;
 }
 
-.position-09 .vt-slider .slider-inner .item,
+.position-09 .vt-slider .slider-inner .item
 {
   width: 150px;
   height: 200px;
@@ -10894,7 +10891,7 @@ body .box-slideshow .tp-bullets.simplebullets.round .bullet:hover:before {
   border-left: 1px solid #e5e5e5 !important;
 }
 
-.position-09 .vt-slider .slider-inner .item .item-wrap,
+.position-09 .vt-slider .slider-inner .item .item-wrap
 {
   height: 200px;
   background: #fff;
