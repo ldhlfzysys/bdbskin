@@ -13920,16 +13920,6 @@ body .box-slideshow .tp-bullets.simplebullets.round .bullet:hover:before {
   position: relative;
 }
 
-.position-09 .products-grid div div {
-  background: #fff;
-  padding: 10px;
-  position: relative;
-}
-
-.position-09 .tab-content .vt-slider .products-grid div div {
-  background: rgba(0, 0, 0, 0.3);
-  padding: 0px;
-}
 /* line 4337, theme.less */
 .up-grade .products-grid div div p.name {
   position: absolute;
