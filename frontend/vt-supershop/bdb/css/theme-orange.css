@@ -11329,6 +11329,11 @@ body .box-slideshow .tp-bullets.simplebullets.round .bullet:hover:before {
 .position-08 .vt-slider .container-slider {
   margin: 0 -15px;
 }
+
+.position-09 .vt-slider .container-slider {
+  margin: 0 -15px;
+}
+
 /* line 3186, theme.less */
 .box-productsconfig .item,
 .position-08 .item {
@@ -13919,6 +13924,10 @@ body .box-slideshow .tp-bullets.simplebullets.round .bullet:hover:before {
   background: #fff;
   padding: 10px;
   position: relative;
+}
+
+.position-09 .vt-slider .products-grid div div {
+
 }
 /* line 4337, theme.less */
 .up-grade .products-grid div div p.name {
