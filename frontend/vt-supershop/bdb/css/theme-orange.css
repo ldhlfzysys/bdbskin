@@ -4512,8 +4512,8 @@ tr.summary-details-excluded {
 }
 /* line 191, theme.less */
 .toolbar .sorter .view-mode strong.list {
-  border: 1px solid #282826;
-  background: #282826;
+  border: 1px solid #1f9fff;
+  background: #1f9fff;
 }
 /* line 193, theme.less */
 .toolbar .sorter .view-mode strong.list:before {
@@ -9212,7 +9212,7 @@ body .box-slideshow .tp-bullets.simplebullets.round .bullet:hover:before {
   line-height: 36px;
   margin-bottom: 10px;
   float: left;
-  background: #282826;
+  background: #e82a44;
   cursor: pointer;
   text-transform: capitalize;
   width: 100%;
