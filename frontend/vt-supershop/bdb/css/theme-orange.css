@@ -10874,8 +10874,9 @@ body .box-slideshow .tp-bullets.simplebullets.round .bullet:hover:before {
 .position-09 .vt-slider .slider-inner .item{
   width: 150px;
   height: 245px;
-  float: left;
+  float: none;
   margin-bottom: 0;
+  position: relative;
 }
 /* line 2757, theme.less */
 .position-09 .vt-slider .slider-inner .item .new-item,
