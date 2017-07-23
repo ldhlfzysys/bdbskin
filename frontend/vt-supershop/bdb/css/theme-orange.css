@@ -7832,7 +7832,10 @@ body .box-slideshow .tp-bullets.simplebullets.round .bullet:hover:before {
 }
 /* line 1775, theme.less */
 .products-grid .item {
-  margin-bottom: 30px;
+  margin-bottom: 10px;
+  width: 25%;
+  padding-left: 10px;
+  padding-right: 10px
 }
 /* line 1776, theme.less */
 .products-grid .item .item-wrap {
