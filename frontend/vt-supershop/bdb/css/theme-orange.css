@@ -11581,7 +11581,7 @@ body .box-slideshow .tp-bullets.simplebullets.round .bullet:hover:before {
   position: absolute;
   top: -7px;
   left: 0;
-  background: #282826;
+  background: #1f9fff;
   border-right: 1px solid #2e2e2e;
   z-index: 9;
 }
