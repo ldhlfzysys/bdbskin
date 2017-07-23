@@ -11599,7 +11599,7 @@ body .box-slideshow .tp-bullets.simplebullets.round .bullet:hover:before {
 /* line 3218, theme.less */
 .box-productsconfig .tab-item ul li.active a,
 .position-08 .tab-item ul li.active a {
-  background: #282826;
+  background: #1f9fff;
   color: #fff;
   -webkit-transition: all 0.1s ease-out 0s;
   -moz-transition: all 0.1s ease-out 0s;
