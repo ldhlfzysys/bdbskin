@@ -11582,7 +11582,7 @@ body .box-slideshow .tp-bullets.simplebullets.round .bullet:hover:before {
   top: -7px;
   left: 0;
   background: #1f9fff;
-  border-right: 1px solid #2e2e2e;
+  border-right: 1px solid #02539d;
   z-index: 9;
 }
 .position-09 .tab-item ul li.active:after {
