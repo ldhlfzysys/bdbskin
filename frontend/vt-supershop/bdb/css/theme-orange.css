@@ -8005,7 +8005,10 @@ body .box-slideshow .tp-bullets.simplebullets.round .bullet:hover:before {
   overflow: hidden;
 }
 
-.position-09 .products-grid .item .item-wrap .pro-info .pro-inner {
+.position-09 .products-grid .item .item-wrap .pro-info .pro-inner 
+.position-10 .products-grid .item .item-wrap .pro-info .pro-inner
+.position-11 .products-grid .item .item-wrap .pro-info .pro-inner
+.position-12 .products-grid .item .item-wrap .pro-info .pro-inner{
   display: block;
   padding: 0px 20px 0px;
   overflow: hidden;
