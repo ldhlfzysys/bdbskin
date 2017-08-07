@@ -11596,7 +11596,15 @@ body .box-slideshow .tp-bullets.simplebullets.round .bullet:hover:before {
 .position-09 .vt-slider .slider-inner .item,
 .position-10 .vt-slider .slider-inner .item,
 .position-11 .vt-slider .slider-inner .item,
-.position-12 .vt-slider .slider-inner .item{
+.position-12 .vt-slider .slider-inner .item
+.position-13 .vt-slider .slider-inner .item,
+.position-14 .vt-slider .slider-inner .item,
+.position-15 .vt-slider .slider-inner .item,
+.position-16 .vt-slider .slider-inner .item,
+.position-17 .vt-slider .slider-inner .item,
+.position-18 .vt-slider .slider-inner .item,
+.position-19 .vt-slider .slider-inner .item,
+.position-20 .vt-slider .slider-inner .item {
   width: 150px;
   height: 245px;
   float: none;
@@ -11697,7 +11705,15 @@ body .box-slideshow .tp-bullets.simplebullets.round .bullet:hover:before {
 .position-09 .vt-slider .slider-inner .item .item-wrap,
 .position-10 .vt-slider .slider-inner .item .item-wrap,
 .position-11 .vt-slider .slider-inner .item .item-wrap,
-.position-12 .vt-slider .slider-inner .item .item-wrap{
+.position-12 .vt-slider .slider-inner .item .item-wrap
+.position-13 .vt-slider .slider-inner .item .item-wrap,
+.position-14 .vt-slider .slider-inner .item .item-wrap,
+.position-15 .vt-slider .slider-inner .item .item-wrap,
+.position-16 .vt-slider .slider-inner .item .item-wrap,
+.position-17 .vt-slider .slider-inner .item .item-wrap,
+.position-18 .vt-slider .slider-inner .item .item-wrap,
+.position-19 .vt-slider .slider-inner .item .item-wrap,
+.position-20 .vt-slider .slider-inner .item .item-wrap {
   height: 245px;
   background: #fff;
   border: none !important;
