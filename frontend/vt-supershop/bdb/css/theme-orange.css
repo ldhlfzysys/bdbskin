@@ -12473,7 +12473,15 @@ body .box-slideshow .tp-bullets.simplebullets.round .bullet:hover:before {
 .position-09 .tab-item, 
 .position-10 .tab-item,
 .position-11 .tab-item,
-.position-12 .tab-item{
+.position-12 .tab-item,
+.position-13 .tab-item, 
+.position-14 .tab-item,
+.position-15 .tab-item,
+.position-16 .tab-item,
+.position-17 .tab-item, 
+.position-18 .tab-item,
+.position-19 .tab-item,
+.position-20 .tab-item{
   display: inline-block;
   width: 100%;
   text-align: center;
@@ -12490,7 +12498,15 @@ body .box-slideshow .tp-bullets.simplebullets.round .bullet:hover:before {
 .position-09 .tab-item ul, 
 .position-10 .tab-item ul, 
 .position-11 .tab-item ul, 
-.position-12 .tab-item ul {
+.position-12 .tab-item ul ,
+.position-13 .tab-item ul, 
+.position-14 .tab-item ul, 
+.position-15 .tab-item ul, 
+.position-16 .tab-item ul ,
+.position-17 .tab-item ul, 
+.position-18 .tab-item ul, 
+.position-19 .tab-item ul, 
+.position-20 .tab-item ul {
   float: right;
   width: 100%;
   border: 1px solid #e8e8e8;
@@ -12514,7 +12530,15 @@ body .box-slideshow .tp-bullets.simplebullets.round .bullet:hover:before {
 .position-09 .tab-item ul li, 
 .position-10 .tab-item ul li,
 .position-11 .tab-item ul li, 
-.position-12 .tab-item ul li {
+.position-12 .tab-item ul li,
+.position-13 .tab-item ul li, 
+.position-14 .tab-item ul li,
+.position-15 .tab-item ul li, 
+.position-16 .tab-item ul li,
+.position-17 .tab-item ul li, 
+.position-18 .tab-item ul li,
+.position-19 .tab-item ul li, 
+.position-20 .tab-item ul li {
   float: right;
   position: relative;
 }
@@ -12533,7 +12557,15 @@ body .box-slideshow .tp-bullets.simplebullets.round .bullet:hover:before {
 .position-09 .tab-item ul li a ,
 .position-10 .tab-item ul li a ,
 .position-11 .tab-item ul li a ,
-.position-12 .tab-item ul li a {
+.position-12 .tab-item ul li a,
+.position-13 .tab-item ul li a ,
+.position-14 .tab-item ul li a ,
+.position-15 .tab-item ul li a ,
+.position-16 .tab-item ul li a,
+.position-17 .tab-item ul li a ,
+.position-18 .tab-item ul li a ,
+.position-19 .tab-item ul li a ,
+.position-20 .tab-item ul li a {
   padding: 0 18px;
   line-height: 40px;
   position: relative;
@@ -12556,7 +12588,15 @@ body .box-slideshow .tp-bullets.simplebullets.round .bullet:hover:before {
 .position-09 .tab-item ul li a:hover ,
 .position-10 .tab-item ul li a:hover ,
 .position-11 .tab-item ul li a:hover ,
-.position-12 .tab-item ul li a:hover {
+.position-12 .tab-item ul li a:hover ,
+.position-13 .tab-item ul li a:hover ,
+.position-14 .tab-item ul li a:hover ,
+.position-15 .tab-item ul li a:hover ,
+.position-16 .tab-item ul li a:hover ,
+.position-17 .tab-item ul li a:hover ,
+.position-18 .tab-item ul li a:hover ,
+.position-19 .tab-item ul li a:hover ,
+.position-20 .tab-item ul li a:hover {
   background: #282826;
   color: #fff;
   -webkit-transition: all 0.1s ease-out 0s;
@@ -12578,7 +12618,15 @@ body .box-slideshow .tp-bullets.simplebullets.round .bullet:hover:before {
 .position-09 .tab-item ul li a:hover:before ,
 .position-10 .tab-item ul li a:hover:before ,
 .position-11 .tab-item ul li a:hover:before ,
-.position-12 .tab-item ul li a:hover:before {
+.position-12 .tab-item ul li a:hover:before ,
+.position-13 .tab-item ul li a:hover:before ,
+.position-14 .tab-item ul li a:hover:before ,
+.position-15 .tab-item ul li a:hover:before ,
+.position-16 .tab-item ul li a:hover:before ,
+.position-07 .tab-item ul li a:hover:before ,
+.position-18 .tab-item ul li a:hover:before ,
+.position-19 .tab-item ul li a:hover:before ,
+.position-20 .tab-item ul li a:hover:before {
   content: "";
   width: 100%;
   height: 1px;
@@ -12601,7 +12649,15 @@ body .box-slideshow .tp-bullets.simplebullets.round .bullet:hover:before {
 .position-09 .tab-item ul li a:hover:after ,
 .position-10 .tab-item ul li a:hover:after ,
 .position-11 .tab-item ul li a:hover:after ,
-.position-12 .tab-item ul li a:hover:after {
+.position-12 .tab-item ul li a:hover:after ,
+.position-13 .tab-item ul li a:hover:after ,
+.position-14 .tab-item ul li a:hover:after ,
+.position-15 .tab-item ul li a:hover:after ,
+.position-16 .tab-item ul li a:hover:after ,
+.position-17 .tab-item ul li a:hover:after ,
+.position-18 .tab-item ul li a:hover:after ,
+.position-19 .tab-item ul li a:hover:after ,
+.position-20 .tab-item ul li a:hover:after {
   content: "";
   width: 100%;
   height: 1px;
@@ -12625,7 +12681,15 @@ body .box-slideshow .tp-bullets.simplebullets.round .bullet:hover:before {
 .position-09 .tab-item ul li.active:before ,
 .position-10 .tab-item ul li.active:before ,
 .position-11 .tab-item ul li.active:before ,
-.position-12 .tab-item ul li.active:before {
+.position-12 .tab-item ul li.active:before ,
+.position-13 .tab-item ul li.active:before ,
+.position-14 .tab-item ul li.active:before ,
+.position-15 .tab-item ul li.active:before ,
+.position-16 .tab-item ul li.active:before ,
+.position-17 .tab-item ul li.active:before ,
+.position-18 .tab-item ul li.active:before ,
+.position-19 .tab-item ul li.active:before ,
+.position-20 .tab-item ul li.active:before {
   content: "";
   width: 12px;
   height: 7px;
@@ -12651,7 +12715,15 @@ body .box-slideshow .tp-bullets.simplebullets.round .bullet:hover:before {
 .position-09 .tab-item ul li.active:after ,
 .position-10 .tab-item ul li.active:after ,
 .position-11 .tab-item ul li.active:after ,
-.position-12 .tab-item ul li.active:after {
+.position-12 .tab-item ul li.active:after ,
+.position-13 .tab-item ul li.active:after ,
+.position-14 .tab-item ul li.active:after ,
+.position-15 .tab-item ul li.active:after ,
+.position-16 .tab-item ul li.active:after ,
+.position-17 .tab-item ul li.active:after ,
+.position-18 .tab-item ul li.active:after ,
+.position-19 .tab-item ul li.active:after ,
+.position-20 .tab-item ul li.active:after {
   content: "";
   width: 100%;
   height: 7px;
@@ -12675,7 +12747,15 @@ body .box-slideshow .tp-bullets.simplebullets.round .bullet:hover:before {
 .position-09 .tab-item ul li.active a ,
 .position-10 .tab-item ul li.active a ,
 .position-11 .tab-item ul li.active a ,
-.position-12 .tab-item ul li.active a {
+.position-12 .tab-item ul li.active a ,
+.position-13 .tab-item ul li.active a ,
+.position-14 .tab-item ul li.active a ,
+.position-15 .tab-item ul li.active a ,
+.position-16 .tab-item ul li.active a ,
+.position-17 .tab-item ul li.active a ,
+.position-18 .tab-item ul li.active a ,
+.position-19 .tab-item ul li.active a ,
+.position-20 .tab-item ul li.active a {
   background: #1f9fff;
   color: #fff;
   -webkit-transition: all 0.1s ease-out 0s;
@@ -12697,7 +12777,15 @@ body .box-slideshow .tp-bullets.simplebullets.round .bullet:hover:before {
 .position-09 .tab-item ul li.active a:before ,
 .position-10 .tab-item ul li.active a:before ,
 .position-11 .tab-item ul li.active a:before ,
-.position-12 .tab-item ul li.active a:before {
+.position-12 .tab-item ul li.active a:before ,
+.position-13 .tab-item ul li.active a:before ,
+.position-14 .tab-item ul li.active a:before ,
+.position-15 .tab-item ul li.active a:before ,
+.position-16 .tab-item ul li.active a:before ,
+.position-17 .tab-item ul li.active a:before ,
+.position-18 .tab-item ul li.active a:before ,
+.position-19 .tab-item ul li.active a:before ,
+.position-20 .tab-item ul li.active a:before {
   content: "";
   width: 100%;
   height: 1px;
@@ -12720,7 +12808,15 @@ body .box-slideshow .tp-bullets.simplebullets.round .bullet:hover:before {
 .position-09 .tab-item ul li.active a:after ,
 .position-10 .tab-item ul li.active a:after ,
 .position-11 .tab-item ul li.active a:after ,
-.position-12 .tab-item ul li.active a:after {
+.position-12 .tab-item ul li.active a:after ,
+.position-13 .tab-item ul li.active a:after ,
+.position-14 .tab-item ul li.active a:after ,
+.position-15 .tab-item ul li.active a:after ,
+.position-16 .tab-item ul li.active a:after ,
+.position-17 .tab-item ul li.active a:after ,
+.position-18 .tab-item ul li.active a:after ,
+.position-19 .tab-item ul li.active a:after ,
+.position-20 .tab-item ul li.active a:after {
   content: "";
   width: 100%;
   height: 1px;
@@ -12738,7 +12834,15 @@ body .box-slideshow .tp-bullets.simplebullets.round .bullet:hover:before {
 .position-09 .tab-content ,
 .position-10 .tab-content ,
 .position-11 .tab-content ,
-.position-12 .tab-content {
+.position-12 .tab-content ,
+.position-13 .tab-content ,
+.position-14 .tab-content ,
+.position-15 .tab-content ,
+.position-16 .tab-content ,
+.position-17 .tab-content ,
+.position-18 .tab-content ,
+.position-19 .tab-content ,
+.position-20 .tab-content {
   overflow: hidden;
 }
 /* line 3234, theme.less */
