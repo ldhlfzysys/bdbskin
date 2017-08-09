@@ -394,7 +394,7 @@ input.flycart-qty{
 	/* Buttons */
 .flycart-qty-change{
 	width:15px;
-	height:15px;
+	height:0px;
 	overflow:hidden;
 	text-indent:-999em;
 	background-repeat:repeat;
