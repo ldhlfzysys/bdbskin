@@ -11757,13 +11757,24 @@ body .box-slideshow .tp-bullets.simplebullets.round .bullet:hover:before {
 .position-17 .vt-slider .slider-inner .item .item-wrap .item-image .btn-cart,
 .position-18 .vt-slider .slider-inner .item .item-wrap .item-image .btn-cart,
 .position-19 .vt-slider .slider-inner .item .item-wrap .item-image .btn-cart,
-.position-20 .vt-slider .slider-inner .item .item-wrap .item-image .btn-cart ,
+.position-20 .vt-slider .slider-inner .item .item-wrap .item-image .btn-cart,
 .position-16 .vt-slider .slider-inner .item .item-wrap .item-image .btn-cart,
 .position-17 .vt-slider .slider-inner .item .item-wrap .item-image .btn-cart,
 .position-18 .vt-slider .slider-inner .item .item-wrap .item-image .btn-cart,
 .position-19 .vt-slider .slider-inner .item .item-wrap .item-image .btn-cart,
 .position-20 .vt-slider .slider-inner .item .item-wrap .item-image .btn-cart {
+  color: #fff;
+  font-size: 100%;
+  line-height: 36px;
+  float: left;
   background: #a6cada;
+  cursor: pointer;
+  text-transform: capitalize;
+  position: absolute;
+  left: 0;
+  bottom: -76px;
+  width: 100%;
+  text-align: center;
 }
 /* line 2776, theme.less */
 .position-09 .vt-slider .slider-inner .item .item-wrap:hover,
