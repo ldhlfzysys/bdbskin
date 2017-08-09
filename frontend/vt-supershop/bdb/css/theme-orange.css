@@ -15343,7 +15343,15 @@ body .box-slideshow .tp-bullets.simplebullets.round .bullet:hover:before {
 .position-09 .box-slide-image ,
 .position-10 .box-slide-image ,
 .position-11 .box-slide-image ,
-.position-12 .box-slide-image {
+.position-12 .box-slide-image ,
+.position-13 .box-slide-image ,
+.position-14 .box-slide-image ,
+.position-15 .box-slide-image ,
+.position-16 .box-slide-image ,
+.position-17 .box-slide-image ,
+.position-18 .box-slide-image ,
+.position-19 .box-slide-image ,
+.position-20 .box-slide-image {
   width: 276px;
   float: left;
   position: relative;
