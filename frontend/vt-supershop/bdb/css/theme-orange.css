@@ -11822,6 +11822,22 @@ body .box-slideshow .tp-bullets.simplebullets.round .bullet:hover:before {
 .position-20 .vt-slider .slider-inner .item .pro-info .pro-content .price-box .price {
   color: #a6cada;
 }
+
+.position-09 .vt-slider .slider-inner .item .item-wrap .pro-info .pro-content .price-box .special-price .price ,
+.position-10 .vt-slider .slider-inner .item .item-wrap .pro-info .pro-content .price-box .special-price .price ,
+.position-11 .vt-slider .slider-inner .item .item-wrap .pro-info .pro-content .price-box .special-price .price ,
+.position-12 .vt-slider .slider-inner .item .item-wrap .pro-info .pro-content .price-box .special-price .price ,
+.position-13 .vt-slider .slider-inner .item .item-wrap .pro-info .pro-content .price-box .special-price .price ,
+.position-14 .vt-slider .slider-inner .item .item-wrap .pro-info .pro-content .price-box .special-price .price ,
+.position-15 .vt-slider .slider-inner .item .item-wrap .pro-info .pro-content .price-box .special-price .price ,
+.position-16 .vt-slider .slider-inner .item .item-wrap .pro-info .pro-content .price-box .special-price .price ,
+.position-17 .vt-slider .slider-inner .item .item-wrap .pro-info .pro-content .price-box .special-price .price ,
+.position-18 .vt-slider .slider-inner .item .item-wrap .pro-info .pro-content .price-box .special-price .price ,
+.position-19 .vt-slider .slider-inner .item .item-wrap .pro-info .pro-content .price-box .special-price .price ,
+.position-20 .vt-slider .slider-inner .item .item-wrap .pro-info .pro-content .price-box .special-price .price ,{
+  color: #e82a44;
+}
+
 /* line 2788, theme.less */
 .position-09 .vt-slider .slider-inner .item .pro-info .pro-content .price-box .old-price .price,
 .position-10 .vt-slider .slider-inner .item .pro-info .pro-content .price-box .old-price .price,
