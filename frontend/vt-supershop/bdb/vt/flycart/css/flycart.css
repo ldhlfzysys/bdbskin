@@ -402,7 +402,7 @@ input.flycart-qty{
 	margin-top:2px;
 }
 
-.flycart_qty_edit{
+.item-image .flycart_qty_edit{
 	display: none;
 }
 

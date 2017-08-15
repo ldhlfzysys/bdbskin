@@ -8638,7 +8638,7 @@ body .box-slideshow .tp-bullets.simplebullets.round .bullet:hover:before {
 }
 
 /* 商品页面单个商品里添加到购物车的个数框不显示。去掉的话导致飞到购物车失效 */
-.flycart_qty_edit .input-text {
+.item-image .flycart_qty_edit .input-text {
   display: none;
 }
 /* line 2079, theme.less */
