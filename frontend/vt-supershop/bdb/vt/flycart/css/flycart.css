@@ -402,9 +402,9 @@ input.flycart-qty{
 	margin-top:2px;
 }
 
-/*.item-image .flycart_qty_edit{
+.item-image .flycart_qty_edit{
 	display: none;
-}*/
+}
 
 	/* Cart page */
 .flycart-my-cart .cart-table input.qty{
