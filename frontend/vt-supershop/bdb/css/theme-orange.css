@@ -614,6 +614,10 @@ textarea.validation-failed {
   font-size: 15.5px;
 }
 
+.main .item-wrap .pro-info .pro-inner .pro-content .wrap-price .price-box .special-price .price {
+  color: #e82a44;
+}
+
 .price-box .price {
   color: #082745;
   font-size: 100%;
@@ -9787,9 +9791,9 @@ body .box-slideshow .tp-bullets.simplebullets.round .bullet:hover:before {
   transition: all 0.3s ease-out 0s;
 }
 /* line 2489, theme.less */
-.position-11 {
+/*.position-11 {
   background: #f5f5f5;
-}
+}*/
 /* line 2490, theme.less */
 .position-11 .box-banner-03 {
   margin-bottom: 0 !important;
