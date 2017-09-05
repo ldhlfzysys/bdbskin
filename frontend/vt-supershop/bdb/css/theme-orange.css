@@ -20401,4 +20401,6 @@ ul.mainnav > li:hover > ul {
   top: -1px;
   z-index: 999;
 }
+
+.navv ul .bg{background:#ff7300;width:14px;height:14px;border:none;}
 /* Color var */
