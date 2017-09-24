@@ -2205,9 +2205,10 @@ tr.summary-details-excluded {
 }
 /* Block: Recently Viewed */
 /* line 1050, general.less */
-.block-viewed .block-title strong {
+
+/*.block-viewed .block-title strong {
   background-image: url(../images/i_block-viewed.gif);
-}
+}*/
 /* Block: Recently Compared */
 /* line 1053, general.less */
 .block-compared .block-title strong {
