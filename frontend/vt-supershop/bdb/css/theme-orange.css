@@ -1567,7 +1567,7 @@ button:hover {
 }
 /* line 804, general.less */
 #checkoutSteps li.active .step-title {
-  background: #FFF;
+  background: #80B3E3;
   border: 1px solid #CCC;
   border-bottom: none;
   cursor: default;
