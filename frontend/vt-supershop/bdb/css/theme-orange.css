@@ -20216,10 +20216,10 @@ ul.mainnav > li:hover > ul {
   left: 268px;
   z-index: 99;
   background: #fff;
-  visibility: hidden;
+  /*visibility: hidden;*/
   opacity: 0;
   filter: alpha(opacity=0);
-  -webkit-transition: all 0.45s ease-out 0s;
+  /*-webkit-transition: all 0.45s ease-out 0s;*/
   -moz-transition: all 0.45s ease-out 0s;
   -o-transition: all 0.45s ease-out 0s;
   transition: all 0.45s ease-out 0s;
