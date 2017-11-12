@@ -611,7 +611,9 @@ textarea.validation-failed {
 }
 /* line 376, general.less */
 .main .item-wrap .pro-info .pro-inner .pro-content .wrap-price .price-box .price {
-  font-size: 15.5px;
+  /*font-size: 15.5px;*/
+  font-size: 12px;
+  font-weight: normal;
 }
 
 .main .item-wrap .pro-info .pro-inner .pro-content .wrap-price .price-box .special-price .price {
