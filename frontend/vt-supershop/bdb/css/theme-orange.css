@@ -7854,6 +7854,7 @@ body .box-slideshow .tp-bullets.simplebullets.round .bullet:hover:before {
 }
 /* line 1776, theme.less */
 .products-grid .item .item-wrap {
+  height: 330px;
   overflow: hidden;
   border: 1px solid #e8e8e8;
 }
