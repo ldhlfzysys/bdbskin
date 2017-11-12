@@ -12650,10 +12650,10 @@ body .box-slideshow .tp-bullets.simplebullets.round .bullet:hover:before {
   left: 0;*/
 }
 
-.position-09 .tab-item ul li:last-child a:after,
-.position-10 .tab-item ul li:last-child a:after,
-.position-11 .tab-item ul li:last-child a:after,
-.position-14 .tab-item ul li:last-child a:after{
+.position-09 .tab-item ul li:first-child a:after,
+.position-10 .tab-item ul li:first-child a:after,
+.position-11 .tab-item ul li:first-child a:after,
+.position-14 .tab-item ul li:first-child a:after{
   content: ""
 }
 
