@@ -12629,6 +12629,15 @@ body .box-slideshow .tp-bullets.simplebullets.round .bullet:hover:before {
   text-transform: uppercase;
 }
 
+.position-09 .tab-item ul li a:after{
+  content:"|";
+/*  background-color:yellow;
+  color:red;*/
+  font-weight:bold;
+  color: #fff;
+  margin-left: 15px;
+}
+
 .position-09 .tab-item ul li a ,
 .position-10 .tab-item ul li a ,
 .position-11 .tab-item ul li a ,
