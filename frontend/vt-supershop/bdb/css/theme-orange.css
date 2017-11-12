@@ -12586,6 +12586,38 @@ body .box-slideshow .tp-bullets.simplebullets.round .bullet:hover:before {
   border: 1px solid #e8e8e8;
 }
 
+.position-09 .tab-item ul span, 
+.position-10 .tab-item ul span, 
+.position-11 .tab-item ul span, 
+.position-12 .tab-item ul span,
+.position-13 .tab-item ul span, 
+.position-14 .tab-item ul span, 
+.position-15 .tab-item ul span, 
+.position-16 .tab-item ul span,
+.position-17 .tab-item ul span, 
+.position-18 .tab-item ul span, 
+.position-19 .tab-item ul span, 
+.position-20 .tab-item ul span{
+  color: #fff !important;
+}
+
+.position-09 .tab-item ul{
+  background-color: #f66da1;
+}
+
+.position-10 .tab-item ul{
+  background-color: #FC9D9B;
+}
+
+.position-11 .tab-item ul{
+  background-color: #FACDAE;
+}
+
+.position-14 .tab-item ul{
+  background-color: #E2C8F7;
+}
+
+
 .position-09 .tab-item ul p,
 .position-10 .tab-item ul p,
 .position-11 .tab-item ul p,
