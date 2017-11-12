@@ -12649,6 +12649,7 @@ body .box-slideshow .tp-bullets.simplebullets.round .bullet:hover:before {
   display: block;
   font-size: 128.57%;
   text-transform: uppercase;
+  color: #fff;
 }
 
 .position-09 .tab-item ul span, 
