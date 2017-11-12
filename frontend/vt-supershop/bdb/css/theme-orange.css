@@ -7664,13 +7664,14 @@ body .box-slideshow .tp-bullets.simplebullets.round .bullet:hover:before {
 /* line 1646, theme.less */
 .wrap-banner-cate .box-cate-tag .row-item ul li a {
   display: block;
-  padding: 0 18px 0 44px;
+  /*padding: 0 18px 0 44px;*/
+  padding: 0 30px;
   font-size: 85.71%;
   position: relative;
 }
 /* line 1647, theme.less */
 .wrap-banner-cate .box-cate-tag .row-item ul li a:before {
-  content: "";
+  /*content: "";*/
   position: absolute;
   top: 0;
   left: 0;
