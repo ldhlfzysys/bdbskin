@@ -881,7 +881,8 @@ button:hover {
 /* line 491, general.less */
 .col2-set .col-2 {
   width: 48.5%;
-  float: right;
+  /*float: right;*/
+  float: left;
 }
 /* line 492, general.less */
 .col2-set .content {
