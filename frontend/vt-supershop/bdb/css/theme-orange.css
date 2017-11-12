@@ -8057,6 +8057,8 @@ body .box-slideshow .tp-bullets.simplebullets.round .bullet:hover:before {
   overflow: hidden;
   white-space: nowrap;
   text-overflow: ellipsis;
+  font-size: 12px;
+  font-weight: normal;
 }
 /* line 1834, theme.less */
 .products-grid .item .item-wrap .pro-info .pro-inner .product-name a:hover {
@@ -11849,7 +11851,9 @@ body .box-slideshow .tp-bullets.simplebullets.round .bullet:hover:before {
 .position-19 .vt-slider .slider-inner .item .pro-info .pro-content .price-box .price,
 .position-20 .vt-slider .slider-inner .item .pro-info .pro-content .price-box .price {
   color: #a6cada;
-  font-size: 15.5px;
+  /*font-size: 15.5px;*/
+  font-size: 12px;
+  font-weight: normal;
 }
 
 .position-09 .vt-slider .slider-inner .item .pro-info .pro-content .price-box .special-price .price ,
@@ -11888,6 +11892,8 @@ body .box-slideshow .tp-bullets.simplebullets.round .bullet:hover:before {
 .position-19 .vt-slider .slider-inner .item .pro-info .pro-content .price-box .old-price .price,
 .position-20 .vt-slider .slider-inner .item .pro-info .pro-content .price-box .old-price .price {
   color: #999;
+  font-size: 12px;
+  font-weight: normal;
 }
 /* line 2797, theme.less */
 .position-09 .vt-slider .slider-inner .navslider .prev,
