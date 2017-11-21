@@ -12708,23 +12708,27 @@ body .box-slideshow .tp-bullets.simplebullets.round .bullet:hover:before {
   color: #fff !important;
 }
 .position-09 .tab-item ul, .position-09 .tab-item ul li a{
+  background-color: #C5E0FF;
+}
+
+.position-10 .tab-item ul, .position-10 .tab-item ul li a{
   background-color: #f66da1;
 }
-.position-10 .tab-item ul, .position-10 .tab-item ul li a{
+.position-11 .tab-item ul, .position-11 .tab-item ul li a{
   background-color: #FC9D9B;
 }
-.position-11 .tab-item ul, .position-11 .tab-item ul li a{
+.position-12 .tab-item ul, .position-12 .tab-item ul li a{
   background-color: #FACDAE;
 }
-.position-12 .tab-item ul, .position-12 .tab-item ul li a{
+.position-13 .tab-item ul, .position-13 .tab-item ul li a{
   background-color: #C6E783;
 }
 
-.position-13 .tab-item ul, .position-13 .tab-item ul li a{
+.position-14 .tab-item ul, .position-14 .tab-item ul li a{
   background-color: #DACCFB;
 }
 
-.position-14 .tab-item ul, .position-14 .tab-item ul li a{
+.position-15 .tab-item ul, .position-15 .tab-item ul li a{
   background-color: #FC89BF;
 }
 
