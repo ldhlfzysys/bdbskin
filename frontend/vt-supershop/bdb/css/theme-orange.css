@@ -11523,17 +11523,20 @@ body .box-slideshow .tp-bullets.simplebullets.round .bullet:hover:before {
 .position-14 .vt-slider,
 .position-15 .vt-slider,
 .position-16 .vt-slider,
-.position-17 .vt-slider,
 .position-18 .vt-slider,
 .position-19 .vt-slider,
-.position-20 .vt-slider ,
-.position-16 .vt-slider,
-.position-17 .vt-slider,
-.position-18 .vt-slider,
-.position-19 .vt-slider,
-.position-20 .vt-slider {
+.position-20 .vt-slider{
   float: left;
   width: 900px;
+  position: relative;
+  min-height: 400px;
+  margin-bottom: 0;
+  overflow: hidden;
+}
+
+.position-17 .vt-slider{
+  float: left;
+  width: 100%;
   position: relative;
   min-height: 400px;
   margin-bottom: 0;
@@ -11641,12 +11644,19 @@ body .box-slideshow .tp-bullets.simplebullets.round .bullet:hover:before {
 .position-14 .vt-slider .slider-inner .item,
 .position-15 .vt-slider .slider-inner .item,
 .position-16 .vt-slider .slider-inner .item,
-.position-17 .vt-slider .slider-inner .item,
 .position-18 .vt-slider .slider-inner .item,
 .position-19 .vt-slider .slider-inner .item,
 .position-20 .vt-slider .slider-inner .item {
   width: 150px;
   height: 245px;
+  float: none;
+  margin-bottom: 0;
+  position: relative;
+}
+
+.position-17 .vt-slider .slider-inner .item{
+  width: 225px;
+  height: 400px;
   float: none;
   margin-bottom: 0;
   position: relative;
@@ -12609,12 +12619,17 @@ body .box-slideshow .tp-bullets.simplebullets.round .bullet:hover:before {
 .position-14 .tab-item ul li,
 .position-15 .tab-item ul li, 
 .position-16 .tab-item ul li,
-.position-17 .tab-item ul li, 
 .position-18 .tab-item ul li,
 .position-19 .tab-item ul li, 
 .position-20 .tab-item ul li {
   float: right;
   position: relative;
+}
+
+.position-17 .tab-item ul li{
+  float: left;
+  position: relative;
+  left: 45%;
 }
 /* line 3200, theme.less */
 .box-productsconfig .tab-item ul li a,
@@ -12730,6 +12745,10 @@ body .box-slideshow .tp-bullets.simplebullets.round .bullet:hover:before {
 
 .position-15 .tab-item ul, .position-15 .tab-item ul li a{
   background-color: #FC89BF;
+}
+
+.position-17 .tab-item ul, .position-17 .tab-item ul li a{
+  background-color: #ABABAB;
 }
 
 
