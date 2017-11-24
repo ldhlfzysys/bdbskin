@@ -11538,7 +11538,7 @@ body .box-slideshow .tp-bullets.simplebullets.round .bullet:hover:before {
   float: left;
   width: 100%;
   position: relative;
-  min-height: 400px;
+  min-height: 245px;
   margin-bottom: 0;
   overflow: hidden;
 }
@@ -11624,16 +11624,18 @@ body .box-slideshow .tp-bullets.simplebullets.round .bullet:hover:before {
 .position-14 .vt-slider .slider-inner .item,
 .position-15 .vt-slider .slider-inner .item,
 .position-16 .vt-slider .slider-inner .item,
-.position-17 .vt-slider .slider-inner .item,
 .position-18 .vt-slider .slider-inner .item,
 .position-19 .vt-slider .slider-inner .item,
 .position-20 .vt-slider .slider-inner .item,
 .position-16 .vt-slider .slider-inner .item,
-.position-17 .vt-slider .slider-inner .item,
 .position-18 .vt-slider .slider-inner .item,
 .position-19 .vt-slider .slider-inner .item,
 .position-20 .vt-slider .slider-inner .item {
   margin-bottom: 0;
+}
+.position-17 .vt-slider .slider-inner .item
+{
+  min-height: 245px;
 }
 
 .position-09 .vt-slider .slider-inner .item,
