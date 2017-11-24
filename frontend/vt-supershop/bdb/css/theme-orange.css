@@ -11920,18 +11920,18 @@ body .box-slideshow .tp-bullets.simplebullets.round .bullet:hover:before {
 .position-14 .vt-slider .slider-inner .navslider .prev,
 .position-15 .vt-slider .slider-inner .navslider .prev,
 .position-16 .vt-slider .slider-inner .navslider .prev,
-.position-17 .vt-slider .slider-inner .navslider .prev,
-.position-18 .vt-slider .slider-inner .navslider .prev,
-.position-19 .vt-slider .slider-inner .navslider .prev,
-.position-20 .vt-slider .slider-inner .navslider .prev ,
-.position-16 .vt-slider .slider-inner .navslider .prev,
-.position-17 .vt-slider .slider-inner .navslider .prev,
 .position-18 .vt-slider .slider-inner .navslider .prev,
 .position-19 .vt-slider .slider-inner .navslider .prev,
 .position-20 .vt-slider .slider-inner .navslider .prev {
   position: absolute;
   top: 50%;
   margin-top: -70px;
+}
+
+.position-17 .vt-slider .slider-inner .navslider .prev {
+  position: absolute;
+  top: 50%;
+  margin-top: 0;
 }
 /* line 2798, theme.less */
 .position-09 .vt-slider .slider-inner .navslider .next,
@@ -11941,18 +11941,19 @@ body .box-slideshow .tp-bullets.simplebullets.round .bullet:hover:before {
 .position-14 .vt-slider .slider-inner .navslider .next,
 .position-15 .vt-slider .slider-inner .navslider .next,
 .position-16 .vt-slider .slider-inner .navslider .next,
-.position-17 .vt-slider .slider-inner .navslider .next,
-.position-18 .vt-slider .slider-inner .navslider .next,
-.position-19 .vt-slider .slider-inner .navslider .next,
-.position-20 .vt-slider .slider-inner .navslider .next ,
-.position-16 .vt-slider .slider-inner .navslider .next,
-.position-17 .vt-slider .slider-inner .navslider .next,
 .position-18 .vt-slider .slider-inner .navslider .next,
 .position-19 .vt-slider .slider-inner .navslider .next,
 .position-20 .vt-slider .slider-inner .navslider .next {
   position: absolute;
   top: 50%;
   margin-top: -70px;
+}
+
+.position-17 .vt-slider .slider-inner .navslider .next
+{
+    position: absolute;
+    top: 50%;
+    margin-top: 0;
 }
 /* line 2800, theme.less */
 .position-09 .vt-slider .slider-inner .navslider a:hover,
