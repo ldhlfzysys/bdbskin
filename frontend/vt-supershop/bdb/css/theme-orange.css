@@ -11764,7 +11764,7 @@ body .box-slideshow .tp-bullets.simplebullets.round .bullet:hover:before {
   height: 245px;
   background: #fff;
   border: none !important;
-  border-left: 1px solid #e5e5e5 !important;
+  /*border-left: 1px solid #e5e5e5 !important;*/
   /*reset font-size*/
   font-size: 12px;
   font-weight: normal;
