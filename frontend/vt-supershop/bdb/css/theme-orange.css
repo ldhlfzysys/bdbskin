@@ -20406,6 +20406,10 @@ ul.mainnav > li:hover > ul {
 #vt_menu .vertical-menu ul.mega-nav > li.level0:nth-child(9) .mega-content-wrap div.submenu {
   top: 300px;
 }
+#vt_menu .vertical-menu ul.mega-nav > li.level0:nth-child(10) .mega-content-wrap div.submenu {
+  top: 340px;
+}
+
 
 /* line 274, menu.less */
 #vt_menu .vertical-menu ul.mega-nav > li .mega-content-wrap .submenu .block {
