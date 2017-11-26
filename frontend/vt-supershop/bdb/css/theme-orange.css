@@ -20379,31 +20379,31 @@ ul.mainnav > li:hover > ul {
 }
 
 /*修改首页二级分类标签位置*/
-li.level0.parent:nth-child(1) div.megamenu-col.megamenu-12col.submenu.have-spetitle.level1 {
+#vt_menu .vertical-menu ul.mega-nav > li.level0:nth-child(1) .mega-content-wrap div.submenu {
   top: 0px;
 }
-li.level0.parent:nth-child(2) div.megamenu-col.megamenu-12col.submenu.have-spetitle.level1 {
+#vt_menu .vertical-menu ul.mega-nav > li.level0:nth-child(2) .mega-content-wrap div.submenu {
   top: 40px;
 }
-li.level0.parent:nth-child(3) div.megamenu-col.megamenu-12col.submenu.have-spetitle.level1 {
+#vt_menu .vertical-menu ul.mega-nav > li.level0:nth-child(3) .mega-content-wrap div.submenu {
   top: 60px;
 }
-li.level0.parent:nth-child(4) div.megamenu-col.megamenu-12col.submenu.have-spetitle.level1 {
+#vt_menu .vertical-menu ul.mega-nav > li.level0:nth-child(4) .mega-content-wrap div.submenu {
   top: 100px;
 }
-li.level0.parent:nth-child(5) div.megamenu-col.megamenu-12col.submenu.have-spetitle.level1 {
+#vt_menu .vertical-menu ul.mega-nav > li.level0:nth-child(5) .mega-content-wrap div.submenu {
   top: 140px;
 }
-li.level0.parent:nth-child(6) div.megamenu-col.megamenu-12col.submenu.have-spetitle.level1 {
+#vt_menu .vertical-menu ul.mega-nav > li.level0:nth-child(6) .mega-content-wrap div.submenu {
   top: 180px;
 }
-li.level0.parent:nth-child(7) div.megamenu-col.megamenu-12col.submenu.have-spetitle.level1 {
+#vt_menu .vertical-menu ul.mega-nav > li.level0:nth-child(7) .mega-content-wrap div.submenu {
   top: 220px;
 }
-li.level0.parent:nth-child(8) div.megamenu-col.megamenu-12col.submenu.have-spetitle.level1 {
+#vt_menu .vertical-menu ul.mega-nav > li.level0:nth-child(8) .mega-content-wrap div.submenu {
   top: 260px;
 }
-li.level0.parent:nth-child(9) div.megamenu-col.megamenu-12col.submenu.have-spetitle.level1 {
+#vt_menu .vertical-menu ul.mega-nav > li.level0:nth-child(9) .mega-content-wrap div.submenu {
   top: 300px;
 }
 
