@@ -20377,6 +20377,36 @@ ul.mainnav > li:hover > ul {
   -webkit-transform: translate(100px, 0);
   transform: translate(100px, 0);
 }
+
+/*修改首页二级分类标签位置*/
+li.level0.parent:nth-child(1) div.megamenu-col.megamenu-12col.submenu.have-spetitle.level1 {
+  top: 0px;
+}
+li.level0.parent:nth-child(2) div.megamenu-col.megamenu-12col.submenu.have-spetitle.level1 {
+  top: 40px;
+}
+li.level0.parent:nth-child(3) div.megamenu-col.megamenu-12col.submenu.have-spetitle.level1 {
+  top: 60px;
+}
+li.level0.parent:nth-child(4) div.megamenu-col.megamenu-12col.submenu.have-spetitle.level1 {
+  top: 100px;
+}
+li.level0.parent:nth-child(5) div.megamenu-col.megamenu-12col.submenu.have-spetitle.level1 {
+  top: 140px;
+}
+li.level0.parent:nth-child(6) div.megamenu-col.megamenu-12col.submenu.have-spetitle.level1 {
+  top: 180px;
+}
+li.level0.parent:nth-child(7) div.megamenu-col.megamenu-12col.submenu.have-spetitle.level1 {
+  top: 220px;
+}
+li.level0.parent:nth-child(8) div.megamenu-col.megamenu-12col.submenu.have-spetitle.level1 {
+  top: 260px;
+}
+li.level0.parent:nth-child(9) div.megamenu-col.megamenu-12col.submenu.have-spetitle.level1 {
+  top: 300px;
+}
+
 /* line 274, menu.less */
 #vt_menu .vertical-menu ul.mega-nav > li .mega-content-wrap .submenu .block {
   float: left;
