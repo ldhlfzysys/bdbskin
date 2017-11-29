@@ -2564,7 +2564,7 @@ tr.summary-details-excluded {
 /* line 1208, general.less */
 .tier-prices li {
   line-height: 1.4;
-  background: url(../images/i_tier.gif) no-repeat 0 3px;
+  /*background: url(../images/i_tier.gif) no-repeat 0 3px;*/
   padding: 2px 0 2px 10px;
 }
 /* line 1209, general.less */
